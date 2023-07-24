@@ -115,7 +115,7 @@ https://free.fnet00.workers.dev/sub?max=200&type=vmess,ss,ssr,vless
 
 همچنین در صورت نیاز می‌توانید لیست پرووایدرها را محدود کنید:
 
-https://free.fnet00.workers.dev/sub?provider=mahdibland,vpei
+https://free.fnet00.workers.dev/sub?provider=fnet00,fnet02
 
 لیست پرووایدرهای قابل قبول:
 
