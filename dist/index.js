@@ -1,7 +1,7 @@
 /*!
-  * v2ray Subscription Worker v1.7a
-  * Copyright 2023 Vahid Farid (https://twitter.com/vahidfarid)
-  * Licensed under GPLv3 (https://github.com/vfarid/v2ray-worker-sub/blob/main/Licence.md)
+  * v2ray Subscription Worker v1.1a
+  * Copyright 2023 FNET00 (https://t.me/fnet00)
+  * Licensed under GPLv3 (https://github.com/amirmohamamd-mohammad-88/v2ray-worker-sub/blob/main/Licence.md)
   */
 
 var MAX_CONFIGS = 200;
